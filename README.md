@@ -23,9 +23,11 @@ Proyek-IoT-ESP32/
 
 ## Perangkat dan Perangkat Lunak
 - Mikrokontroler ESP32
+- WOKWI
+- Mikrokontroler ESP8266
 - Arduino IDE
 - Koneksi jaringan Wi-Fi
-- Python (untuk analisis data, jika digunakan)
+- Wireshark
 
 ## Dependensi
 Daftar library dan versi yang digunakan akan dicantumkan setelah disesuaikan dengan program pengujian.
