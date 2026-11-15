@@ -9,7 +9,7 @@ const char* ssid = "NAMA_WIFI";
 const char* password = "PASSWORD_WIFI";
 
 // Pengaturan ThingSpeak
-unsigned long channelID = 3563994;
+unsigned long channelID = chanell_id;
 const char* writeAPIKey = "API_KEY_THINGSPEAK";
 
 WiFiClient client;
